@@ -9,4 +9,5 @@ REALIZAÇÃO DA MATRÍCULA:
   o cliente deve fazer a matrícula com o uso do e-mail e cpf.
   obrigatório o adiantamento de 3 meses de pagamento.
 
-  - comunicar que o cliente deve ter total comprometimento com a academia.
+- comunicar que o cliente deve ter total comprometimento com a academia.
+- as informações de idade desevem estar no inicio do documento antes dele preencher com os propros dados.
