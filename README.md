@@ -10,4 +10,3 @@ REALIZAÇÃO DA MATRÍCULA:
   obrigatório o adiantamento de 3 meses de pagamento.
 
   - comunicar que o cliente deve ter total comprometimento com a academia.
-  - no final pergunte se o cliente concorda que se o peso explodir durante o uso, a academia não vai arcar com as consequências.
