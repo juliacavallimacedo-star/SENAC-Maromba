@@ -10,6 +10,7 @@ REALIZAÇÃO DA MATRÍCULA:
   obrigatório o adiantamento de 3 meses de pagamento.
 
 - comunicar que o cliente deve ter total comprometimento com a academia.
+- 150 reais a mensalidade.
 - as informações de idade desevem estar no inicio do documento antes dele preencher com os propros dados.
 
 
