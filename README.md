@@ -45,3 +45,8 @@ Item	Descrição
 13	O sistema deve exigir e validar o e-mail e o CPF do cliente para a realização do cadastro.
 
 14	O sistema deve aplicar a obrigatoriedade do pagamento adiantado equivalente a 3 meses contratados para a efetivação da matrícula.
+
+Erros encontrados pela testadora QA:
+
+As linhas 31, 32, 33, 34 e 35 estão fora da condição de pagamento que começa na linha 19;
+
