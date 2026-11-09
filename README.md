@@ -48,5 +48,4 @@ Item	Descrição
 
 Erros encontrados pela testadora QA:
 
-As linhas 31, 32, 33, 34 e 35 estão fora da condição de pagamento que começa na linha 19;
-Colocar uma variável no código que impeça caracteres diferentes de números.
+- As linhas 31, 32, 33, 34 e 35 estão fora da condição de pagamento que começa na linha 19;
